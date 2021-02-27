@@ -1,0 +1,4 @@
+.tableTR th td{
+    border: '1px solid blue';
+    color:red;
+}
